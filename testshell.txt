@@ -1,1 +1,3 @@
-sudo armbian-config
+cd
+cd micropython
+cd mpy-cross
