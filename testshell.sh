@@ -1,1 +1,2 @@
-cd ../micropython
+#!/bin/sh
+git pull
